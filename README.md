@@ -56,6 +56,6 @@ node index.js
 ```bash
 http://localhost:3000
 ```
-## 🎥 Preview
+## 🎬 Demonstração em Vídeo
 
-![CRUD rodando](/public/img/CRUD-JS.mp4)
+[![Assista no YouTube](https://img.youtube.com/vi/RO7_sMSGy_E/hqdefault.jpg)](https://www.youtube.com/watch?v=RO7_sMSGy_E)

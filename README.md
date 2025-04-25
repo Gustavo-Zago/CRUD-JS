@@ -44,11 +44,18 @@ git clone https://github.com/Gustavo-Zago/CRUD-JS.git
 ```bash
 cd CRUD-JS
 ```
-3. **Rode o Index.js**
+3. **Rode o APACHE E O MYSQL**
 ```bash
 node index.js
 ```
-4. **Abra No Navegador**
+4. **Rode o Index.js**
+```bash
+node index.js
+```
+5. **Abra No Navegador**
 ```bash
 http://localhost:3000
 ```
+## 🎥 Preview
+
+![CRUD rodando](/public/img/CRUD-JS.mp4)

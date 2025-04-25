@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background: #f7e9ef;
+    padding: 20px;
+  }
+  h1 {
+    color: #8e3d59;
+  }
+  section > ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  section > ul > li {
+    background: white;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  }
+  .nav-link {
+    transition: transform 0.3s ease, color 0.3s ease; /* Suaviza a transição */
+  }
+  .nav-link:hover {
+    color: 8e3d59;
+    transform: scale(1.1);
+  }
+  .push{
+    display: block;
+  }

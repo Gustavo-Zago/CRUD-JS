@@ -1,6 +1,6 @@
 # CRUD-JS
 
-Este projeto é uma aplicação de cadastro de clientes com funcionalidades de **CRUD (Create, Read, Update, Delete)**, desenvolvida com **Node.js**, **Express** e **SQLite**.
+Este projeto é uma aplicação de cadastro de clientes com funcionalidades de **CRUD (Create, Read, Update, Delete)**, desenvolvida com **Node.js**, **Express** e **MySQL**.
 
 ---
 
@@ -19,7 +19,7 @@ Este projeto é uma aplicação de cadastro de clientes com funcionalidades de *
 
 - Node.js
 - Express
-- SQLite3
+- MySQL
 - HTML + CSS + JS puro (para a parte visual)
 
 ---
